@@ -3,7 +3,7 @@ print("___________________________________________________________")
 print("|                        WELCOME                           |")
 print("|                          TO                              |")
 print("|                    WORD PUZZLE GAME                      |")
-print("|              MADE BY SANDEEP MADDHESHIYA                 |")
+print("|                 MADE BY Avinash Singh                    |")
 print("------------------------------------------------------------")
 
 l=["WATER","FRESH","FISH","CRICKET","LAPTOP","PUZZLE","BOTTLE","BEDROOM","ICECREAM","MOUSE","JERRY","KITCHEN","PIZZA"]
